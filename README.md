@@ -20,3 +20,9 @@ data_path_accel_quality_flags <- "/data_qualtiy_directory"
 data_accel_quality_flags      <- "accel.rds"
 ```
 
+## Citation
+
+Leroux et al. "Quantifying the Predictive Performance of Objectively Measured Physical Activity on Mortality in the UK Biobank" J Gerontol A Biol Sci Med Sci. 2021 Aug
+https://doi.org/10.1093/gerona/glaa250
+
+
